@@ -1,5 +1,5 @@
 // （API_KEY には、"取得したAPIキー" を記述）
-API_KEY = "b72d123dac4fc8482908d3f748f9c735";
+API_KEY = "";
 $(function(){
   $('#btn').on('click', function() {
     // 入力された都市名でWebAPIに天気情報をリクエスト
